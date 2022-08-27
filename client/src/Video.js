@@ -76,6 +76,8 @@ const Video = ({
         onClick={onVideoClick}
         src={"/uploads/"+url}
         onEnded={onEnded}
+        defaultMuted
+        playsInline
       ></VideoPlayer>
       {/* <VideoImg src={require("./placeholder.jpg")}  /> */}
       {!playing && <VideoPlayButton onVideoClick={onVideoClick} />}
