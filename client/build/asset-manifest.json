@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ae0bca41.css",
+    "main.js": "/static/js/main.298cd930.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/placeholder.jpg": "/static/media/placeholder.0d9ae8c4ec392323a2fd.jpg",
+    "static/media/tiktoklogo.svg": "/static/media/tiktoklogo.460e08f99a73f520d8481db6fdd3f5d9.svg",
+    "static/media/nav-inbox.svg": "/static/media/nav-inbox.1fce94d96978b98c305153fca8120988.svg",
+    "static/media/stat-comment.svg": "/static/media/stat-comment.3119151fcc72b07e8d84f31fada1705e.svg",
+    "static/media/nav-friends.svg": "/static/media/nav-friends.bff39cc5db642cbf69d77cd4fabd96a4.svg",
+    "static/media/stat-like.svg": "/static/media/stat-like.cfe7daf5a0738d409a27a45fd296392e.svg",
+    "static/media/nav-home.svg": "/static/media/nav-home.9f0523973ef8795683bdcb624e8c20b3.svg",
+    "static/media/nav-search.svg": "/static/media/nav-search.20ef4d21b1b17d4ec66a791ae5d82417.svg",
+    "static/media/nav-user.svg": "/static/media/nav-user.b0c015e43820f2d9c65d1317919179a5.svg",
+    "static/media/nav-addvid.svg": "/static/media/nav-addvid.344c847dab5862c7df4b9232601f30c3.svg",
+    "index.html": "/index.html",
+    "static/media/stat-reshare.svg": "/static/media/stat-reshare.cc1bb0567985599869dd5b411c1b0cbd.svg",
+    "static/media/play-solid.svg": "/static/media/play-solid.d0aa754392f76eb4eed2164c60b5bf8e.svg",
+    "main.ae0bca41.css.map": "/static/css/main.ae0bca41.css.map",
+    "main.298cd930.js.map": "/static/js/main.298cd930.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae0bca41.css",
+    "static/js/main.298cd930.js"
+  ]
+}
