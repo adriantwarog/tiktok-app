@@ -79,7 +79,6 @@ app.get("/api", (req, res) => {
 
 const fs = require("fs");
 const path = require("path");
-const { channel } = require("diagnostics_channel");
 
 const getMostRecentFile = (dir) => {
   const files = orderReccentFiles(dir);
