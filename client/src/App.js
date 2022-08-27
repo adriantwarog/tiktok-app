@@ -67,7 +67,7 @@ function App() {
                   type="file"
                   name="my-video"
                   style={{ display: "none" }}
-                  accept="video/mp4,video/x-m4v,video/*"
+                  accept="video/mp4,video/webm"
                   // multiple={false}
                 />
                 </form>

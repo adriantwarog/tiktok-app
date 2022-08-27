@@ -74,7 +74,7 @@ const Video = ({
         muted="muted"
         ref={videoRef}
         onClick={onVideoClick}
-        src={url}
+        src={"/uploads/"+url}
         onEnded={onEnded}
       ></VideoPlayer>
       {/* <VideoImg src={require("./placeholder.jpg")}  /> */}
